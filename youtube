@@ -1,9 +1,8 @@
+#SUBSCRIBED https://
+raw.githubusercontent.com/xxf185/stash/refs/heads/main/youtube
 #!name = YouTube去广告
 #!desc =支持pip，后台播放
-#!author = Maasea 
-#!homepage=https://whatshub.top
-#!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
-name: YouTubequguanggao
+name: YouTube去广告
 desc: 支持pip，后台播放
 http:
   mitm:
